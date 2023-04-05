@@ -1,2 +1,2 @@
 # Python
-// In this repository you can see my python projects.
+In this repository you can see my python projects.
